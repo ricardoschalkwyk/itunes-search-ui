@@ -1,5 +1,5 @@
 const BASE_URL = process.env.REACT_APP_API_URL;
-console.log(process.env.NODE_ENV);
+
 // Holds the functionality for GET,POST and DELETE requests.
 
 const Api = {

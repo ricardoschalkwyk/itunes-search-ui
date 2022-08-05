@@ -11,7 +11,6 @@ function Input({ type = "text", placeholder, value, onChange }) {
       placeholder={placeholder}
       onChange={(e) => {
         onChange?.(e);
-        console.log(onChange);
       }}
     />
   );
