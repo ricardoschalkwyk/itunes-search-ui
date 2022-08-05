@@ -5,8 +5,6 @@ import Navbar from "./components/Navbar";
 import HomePage from "./pages/HomePage";
 import FavoritesPage from "./pages/FavoritesPage";
 
-import "./assets/App.css";
-
 // The App component holds the routing for the 2 pages
 
 function App() {

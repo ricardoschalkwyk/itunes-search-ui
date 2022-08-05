@@ -1,5 +1,5 @@
-const BASE_URL = "http://localhost:5050/api";
-
+const BASE_URL = process.env.REACT_APP_API_URL;
+console.log(process.env.NODE_ENV);
 // Holds the functionality for GET,POST and DELETE requests.
 
 const Api = {
