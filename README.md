@@ -1,3 +1,47 @@
+# How to Install
+
+You will need to have the files on your local machine by by pulling it from `gitHub`.
+
+Once it is on your local machine you will need to use you `command-line/terminal` to nagivate to the directory.
+
+When in the directory you will need to type `npm install` for both `front-end` and `back-end` directories so that you install all neccesary node-modules.
+
+Then if all modules are install in the `back-end` aswell as the `front-end` you can just type `npm start` in the seperate
+directories.
+
+The app will automatically open in your browser.
+
+# How to use
+
+Functionally this app can be use to search for anything from itunes.
+
+On the user side you just have to type what you are looking for inside the search box,
+there are also two select boxes.
+
+The first box is for the `media type` that you want like music or a movie. `(Preset to all)`
+
+The second box is for how many results you want.`(Preset to 10)`
+
+## Pages
+
+There are two displayed pages.
+
+Page one is for the search functionality.
+
+Page two is for favorites that you favorite by clicking the heart
+
+# Security
+
+There are no `API` keys used so security for that was not neccesary.
+
+The `Helmet middleware` was added to the back-end for `security-related HTTP response headers`
+
+# Test
+
+Testing examples are provided in all test files
+
+`###########################################################################################`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
