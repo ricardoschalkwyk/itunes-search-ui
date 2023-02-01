@@ -17,7 +17,7 @@ The app will automatically open in your browser.
 
 # How to use
 
-Functionally this app can be use to search for anything from itunes.
+Functionally this app can be used to search for anything from itunes.
 
 On the user side you just have to type what you are looking for inside the search box,
 there are also two select boxes.
